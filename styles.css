@@ -1,0 +1,16 @@
+body {
+  background-color: red;
+  font-family: cursive;
+}
+
+#button:hover {
+    background-color: blue;
+    padding: 5px;
+    border-radius: 8px;
+}
+
+input {
+    background-color: black;
+    color: aliceblue;
+    border-color: blue;
+}
